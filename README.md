@@ -1,4 +1,5 @@
 # Sorting-Visualizer
+
 Visualization of different sorting algorithms in C++ with SDL2 Library.
 
 Using this Sorting Visualizer, we will visually analyse the working of 6 Sorting Algorithms.
@@ -40,9 +41,9 @@ Available Controls inside Sorting Visualizer:-
 
 - Sample 1 (Insertion Sort)
 
-![](Sample Visuals/example1.gif)
+![](https://github.com/yatharth2309/Sorting-Visualizer/blob/main/Sample%20Visuals/example1.gif?raw=true)
 
 
 - Sample 2 (Merge Sort)
 
-![](Sample Visuals/example2.gif)
+![](https://github.com/yatharth2309/Sorting-Visualizer/blob/main/Sample%20Visuals/example2.gif?raw=true)
